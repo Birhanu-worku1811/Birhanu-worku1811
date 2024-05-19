@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birhanu-worku1811&label=Profile%20views&color=0e75b6&style=flat" alt="birhanu-worku1811" /> </p>
 
-- 🌱 I’m currently learning **Python, Django**
 
 - 👯 I’m looking to collaborate on **Web developement**
 
