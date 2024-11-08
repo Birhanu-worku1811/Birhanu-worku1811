@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋, I'm Birhanu Worku</h1>
-<h3 align="center">A passionate Backend developer from Ethiopia</h3>
+<h3 align="center">Backend Developer and AI/AGI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birhanu-worku1811&label=Profile%20views&color=0e75b6&style=flat" alt="birhanu-worku1811" /> </p>
 
-
-- 👯 I’m looking to collaborate on **Web developement**
-
-- 👨‍💻 All of my projects are available at [birhanu.teck](birhanu.teck)
-
-- 📝 I regularly write articles on [blog.birhanu.teck](blog.birhanu.teck)
-
-- 📄 Know about my experiences [resume.link](resume.link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
